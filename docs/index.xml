@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learney Blog - Knowledge aggregator for developers</title>
+    <link>https://blog.learney.io/</link>
+    <description>Recent content on Learney Blog - Knowledge aggregator for developers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jan 2019 14:52:32 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.learney.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learney Hello World</title>
+      <link>https://blog.learney.io/post/learney-hello-world/</link>
+      <pubDate>Sun, 13 Jan 2019 14:52:32 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/learney-hello-world/</guid>
+      <description>My name is Przemek, I’m a 25-year-old software engineer from Cracow, Poland. Since last few years, I’ve been focused on different aspects of knowledge sharing within our industry. One of my ongoing goals is to give back to the community through all kinds of activities like running a blog for aspiring developers, preparing conference talks, writing articles or contributing to open source.
+By doing all of this not only I’m able to express my “thanks for everything” for other software developers but also learn about your day-to-day struggles related to gathering the knowledge, avoiding distractions and just becoming more competent.</description>
+    </item>
+    
+  </channel>
+</rss>
