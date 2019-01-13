@@ -6,3 +6,8 @@ publishDir = "docs"
 widgets = false
 config = "config.toml"
 canonifyURLS = true
+
+[params]
+    customCSS = true
+    readMore = "Read more"
+    logo = "/images/brand/logo_blue.png"
