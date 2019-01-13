@@ -1,3 +1,6 @@
 [submodule "learney-blog/themes/onepress"]
 	path = learney-blog/themes/onepress
 	url = https://github.com/ijsucceed/onepress.git
+[submodule "themes/onepress"]
+	path = themes/onepress
+	url = https://github.com/ijsucceed/onepress.git
