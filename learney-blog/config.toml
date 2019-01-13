@@ -1,0 +1,8 @@
+baseURL = "https://blog.learney.io/"
+languageCode = "en-us"
+title = "Learney Blog - Knowledge aggregator for developers"
+theme = "onepress"
+publishDir = "docs"
+widgets = false
+config = "config.toml"
+canonifyURLS = true
