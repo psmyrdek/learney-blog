@@ -29,3 +29,5 @@ Last but not least, what’s in front of this project?
 Today it’s too early to promise that Learney will radically improve your approach to learning and gathering the knowledge. For sure I’ll do my best for this to happen, but first few weeks of this project are dedicated to inviting more people to this community, asking for feedback and iterating over the assumptions from the beginning. If you spent five minutes of your precious time reading this I want to say thank you, and at the same time, I want to invite you to try Learney because I believe that it should be much easier for developers to find the valuable knowledge.
 
 See you next time!
+
+**Przemek**
