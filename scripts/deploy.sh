@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HUGO_ENV=production hugo -t hugo-paper
+HUGO_ENV=production hugo -t onepress
 
 git add .
 
