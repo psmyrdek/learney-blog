@@ -5,6 +5,7 @@ theme = "onepress"
 publishDir = "docs"
 widgets = false
 config = "config.toml"
+googleAnalytics = "UA-131215004-2"
 canonifyURLS = true
 
 [params]
