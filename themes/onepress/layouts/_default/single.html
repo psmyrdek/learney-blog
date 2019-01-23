@@ -14,6 +14,13 @@
         <img src="{{ .Params.featuredImage }}" alt="{{ .Title }}">
     </section>
     {{ end }}
+    {{ if .Params.tags }}
+        <div class="post__tags">
+            {{range .Params.tags}}
+              <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" class="tag">#{{ . }}</a>
+            {{end}}
+        </div>
+    {{end}}
     <section id="content" class="body">
         {{ .Content }}
     </section> 
@@ -24,13 +31,6 @@
   {{ partial "share.html" . }} 
   {{ partial "author.html" . }}
   <img class="learney__logo-gray" src="/images/brand/logo_gray_small.png" alt="Learney logo">
-  <!-- {{ if .Params.tags }}
-      <div>
-          {{range .Params.tags}}
-            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-          {{end}}
-      </div>
-  {{end}} -->
 {{ end }}
 
 {{ define "widgets" }}
