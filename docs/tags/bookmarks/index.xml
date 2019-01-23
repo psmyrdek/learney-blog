@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bookmarks on Learney Blog - Knowledge aggregator for developers</title>
+    <link>https://blog.learney.io/tags/bookmarks/</link>
+    <description>Recent content in Bookmarks on Learney Blog - Knowledge aggregator for developers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 20:28:20 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.learney.io/tags/bookmarks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First week, live!</title>
+      <link>https://blog.learney.io/post/first-week-passed/</link>
+      <pubDate>Wed, 23 Jan 2019 20:28:20 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/first-week-passed/</guid>
+      <description>Such a week! Only ten days passed since Learney has launched and tons of amazing things already happened. Let me share this short update with you to summarize everything and explain what’s on the roadmap for incoming weeks.
+First and foremost - a few words about all that feedback you’ve been sending to me through that period. I’m really amazed how many people want to support this random project of a random guy who believes that knowledge sharing worths much more attention, especially in the context of software development.</description>
+    </item>
+    
+  </channel>
+</rss>

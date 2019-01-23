@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Learney Blog - Knowledge aggregator for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jan 2019 20:28:20 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.learney.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bookmarks</title>
+      <link>https://blog.learney.io/tags/bookmarks/</link>
+      <pubDate>Wed, 23 Jan 2019 20:28:20 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/tags/bookmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://blog.learney.io/tags/release/</link>
+      <pubDate>Wed, 23 Jan 2019 20:28:20 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updates</title>
+      <link>https://blog.learney.io/tags/updates/</link>
+      <pubDate>Wed, 23 Jan 2019 20:28:20 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/tags/updates/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

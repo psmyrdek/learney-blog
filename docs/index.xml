@@ -6,10 +6,20 @@
     <description>Recent content on Learney Blog - Knowledge aggregator for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jan 2019 14:52:32 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jan 2019 20:28:20 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.learney.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First week, live!</title>
+      <link>https://blog.learney.io/post/first-week-passed/</link>
+      <pubDate>Wed, 23 Jan 2019 20:28:20 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/first-week-passed/</guid>
+      <description>Such a week! Only ten days passed since Learney has launched and tons of amazing things already happened. Let me share this short update with you to summarize everything and explain what’s on the roadmap for incoming weeks.
+First and foremost - a few words about all that feedback you’ve been sending to me through that period. I’m really amazed how many people want to support this random project of a random guy who believes that knowledge sharing worths much more attention, especially in the context of software development.</description>
+    </item>
     
     <item>
       <title>Learney says Hello, World!</title>
