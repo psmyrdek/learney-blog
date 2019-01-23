@@ -3,7 +3,7 @@ title = "Learney says Hello, World!"
 date = 2019-01-13T14:52:32+01:00
 tags = ["release", "updates"]
 description = "Let me invite you to Learney (https://learney.io) - my take on the topic of knowledge aggregators focused on the needs of software developers."
-featuredImage = "images/posts/learney_og.jpg"
+featuredImage = "/images/posts/learney_og.jpg"
 draft = false
 +++
 
