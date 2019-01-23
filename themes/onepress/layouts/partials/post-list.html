@@ -5,7 +5,7 @@
   {{ .Date.Format "January 2, 2006" }} 
   </span>
   {{ if .Params.featuredImage  }}
-  <a href='{{ .Permalink }}'><span class="image" style="background-image: url({{.Params.featuredimage }})"></span></a>
+  <a href='{{ .Permalink }}'><span class="image" style="background-image: url({{ .Site.BaseURL }}{{ .Params.featuredImage }})"></span></a>
   {{ end }}
   <span class="intro">{{ .Description | markdownify }}</span>
   <a href='{{ .Permalink }}' class="read-more">

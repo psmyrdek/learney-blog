@@ -1,4 +1,4 @@
-baseURL = "https://blog.learney.io/"
+baseURL = "https://blog.learney.io"
 languageCode = "en-us"
 title = "Learney Blog - Knowledge aggregator for developers"
 theme = "onepress"
@@ -11,6 +11,6 @@ canonifyURLS = true
 [params]
     customCSS = true
     readMore = "Read more"
-    logo = "/images/brand/logo_blue.png"
-    twitter = "@psmyrdek"
+    logo = "images/brand/logo_blue.png"
+    twitter = "psmyrdek"
     opengraphImage = "images/posts/learney_og.jpg"
