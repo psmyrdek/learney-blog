@@ -3,7 +3,7 @@ title = "First week, live!"
 date = 2019-01-23T20:28:20+01:00
 tags = ["release", "updates", "bookmarks"]
 description = "Only ten days passed since Learney has launched and tons of amazing things already happened. Let me share this short update with you to summarize everything and explain what’s on the roadmap for incoming weeks."
-featuredImage = "/images/posts/its-live.jpg"
+featuredImage = "images/posts/its-live.jpg"
 draft = false
 +++
 

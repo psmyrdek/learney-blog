@@ -3,7 +3,7 @@ title = "Is it worth to share the knowledge?"
 date = 2019-01-24T19:16:29+01:00
 tags = ["knowledge sharing", "values", "mission"]
 description = "One of the main goals of Learney is to make sharing the knowledge easy and fun."
-featuredImage = "/images/posts/knowledge-sharing-values.jpg"
+featuredImage = "images/posts/knowledge-sharing-values.jpg"
 draft = false
 +++
 
