@@ -6,10 +6,21 @@
     <description>Recent content on Learney Blog - Knowledge aggregator for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jan 2019 20:28:20 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 19:16:29 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.learney.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is it worth to share the knowledge?</title>
+      <link>https://blog.learney.io/post/knowledge-sharing-values/</link>
+      <pubDate>Thu, 24 Jan 2019 19:16:29 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/knowledge-sharing-values/</guid>
+      <description>One of the main goals of Learney is to make sharing the knowledge easy and fun. Some of you may agree with the importance of such a mission, but others will ask - why does it really matter?
+Today I’d like you to give you some example values that knowledge sharing brings to the table when it’s a part of your daily routine.
+It helps you become a better teacher Knowledge sharing may be realized through many different forms.</description>
+    </item>
     
     <item>
       <title>First week, live!</title>
