@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.learney.io/post/about-the-mission-of-learney/</loc>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.learney.io/post/knowledge-sharing-values/</loc>
     <lastmod>2019-01-24T19:16:29+01:00</lastmod>
   </url>
@@ -29,26 +34,50 @@
   </url>
   
   <url>
+    <loc>https://blog.learney.io/tags/community/</loc>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.learney.io/tags/help/</loc>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.learney.io/tags/knowledge-sharing/</loc>
     <lastmod>2019-01-24T19:16:29+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://blog.learney.io/tags/learney/</loc>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.learney.io/</loc>
-    <lastmod>2019-01-24T19:16:29+01:00</lastmod>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.learney.io/tags/mission/</loc>
-    <lastmod>2019-01-24T19:16:29+01:00</lastmod>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.learney.io/tags/motivation/</loc>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.learney.io/post/</loc>
-    <lastmod>2019-01-24T19:16:29+01:00</lastmod>
+    <lastmod>2019-02-02T07:48:39+01:00</lastmod>
     <priority>0</priority>
   </url>
   

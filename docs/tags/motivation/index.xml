@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motivation on Learney Blog - Knowledge aggregator for developers</title>
+    <link>https://blog.learney.io/tags/motivation/</link>
+    <description>Recent content in Motivation on Learney Blog - Knowledge aggregator for developers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Feb 2019 07:48:39 +0100</lastBuildDate>
+    
+	<atom:link href="https://blog.learney.io/tags/motivation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the Mission of Learney</title>
+      <link>https://blog.learney.io/post/about-the-mission-of-learney/</link>
+      <pubDate>Sat, 02 Feb 2019 07:48:39 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/about-the-mission-of-learney/</guid>
+      <description>Every founder of every new public initiative or project at some point needs to answer this one question. Question about conquering the world.
+People ask me “How does Learney want to compete with Twitter, Medium, HackerNews or Facebook groups where we already look for knowledge?” That’s a really good question, but my answer may surprise you a bit.
+Why? Because I don’t want to compete with them. That’s not even my long-term goal.</description>
+    </item>
+    
+  </channel>
+</rss>

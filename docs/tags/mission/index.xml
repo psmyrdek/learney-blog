@@ -6,10 +6,21 @@
     <description>Recent content in Mission on Learney Blog - Knowledge aggregator for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jan 2019 19:16:29 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 02 Feb 2019 07:48:39 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.learney.io/tags/mission/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About the Mission of Learney</title>
+      <link>https://blog.learney.io/post/about-the-mission-of-learney/</link>
+      <pubDate>Sat, 02 Feb 2019 07:48:39 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/about-the-mission-of-learney/</guid>
+      <description>Every founder of every new public initiative or project at some point needs to answer this one question. Question about conquering the world.
+People ask me “How does Learney want to compete with Twitter, Medium, HackerNews or Facebook groups where we already look for knowledge?” That’s a really good question, but my answer may surprise you a bit.
+Why? Because I don’t want to compete with them. That’s not even my long-term goal.</description>
+    </item>
     
     <item>
       <title>Is it worth to share the knowledge?</title>
