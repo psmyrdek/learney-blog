@@ -6,10 +6,21 @@
     <description>Recent content on Learney Blog - Knowledge aggregator for developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 07:48:39 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 18:56:42 +0100</lastBuildDate>
     
 	<atom:link href="https://blog.learney.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Making Posts Lovable</title>
+      <link>https://blog.learney.io/post/learney-update-making-posts-lovable/</link>
+      <pubDate>Fri, 08 Feb 2019 18:56:42 +0100</pubDate>
+      
+      <guid>https://blog.learney.io/post/learney-update-making-posts-lovable/</guid>
+      <description>This week brings a bunch of new updates to Learney, but probably the most exciting one is about being able to like stories shared within the community.
+Is it really such a big deal? It’s just pretty simplistic heart icon at first, but it serves multiple purposes. In today’s post, I’d like to explain to you my motivation behind introducing it to the platform.
+First and foremost - trust. Learney users should trust the resources that can be found in this place.</description>
+    </item>
     
     <item>
       <title>About the Mission of Learney</title>
