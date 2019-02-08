@@ -7,6 +7,7 @@ widgets = false
 config = "config.toml"
 googleAnalytics = "UA-131215004-2"
 canonifyURLS = true
+disqusShortname = "learney-1"
 
 [params]
     customCSS = true
