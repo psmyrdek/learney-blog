@@ -12,6 +12,9 @@ disqusShortname = "learney-1"
 [params]
     customCSS = true
     readMore = "Read more"
+    enableRSS = true
     logo = "/images/brand/logo_blue.png"
-    twitter = "psmyrdek"
+    twitter = "https://twitter.com/learneyapp"
     opengraphImage = "images/posts/learney_og.jpg"
+    facebook = "http://facebook.com/learneyapp"
+    shareButton = true
